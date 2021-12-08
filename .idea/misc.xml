@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Documentos/AT04_ContatosEmergencia/app/src/main/res/layout/activity_checagem_login.xml" value="0.2" />
+        <entry key="..\:/Documentos/ContatosEmergencia_4/app/src/main/res/drawable/ic_launcher_icon.xml" value="0.2755208333333333" />
+        <entry key="..\:/Documentos/ContatosEmergencia_4/app/src/main/res/layout-notnight/list_view_layout_imagem.xml" value="0.259375" />
+        <entry key="..\:/Documentos/ContatosEmergencia_4/app/src/main/res/layout/activity_alterar_contatos.xml" value="0.264" />
+        <entry key="..\:/Documentos/ContatosEmergencia_4/app/src/main/res/layout/activity_checagem_login.xml" value="0.17300724637681159" />
+        <entry key="..\:/Documentos/ContatosEmergencia_4/app/src/main/res/layout/activity_lista_de_contatos.xml" value="0.259375" />
+        <entry key="..\:/Documentos/ContatosEmergencia_4/app/src/main/res/layout/activity_novo_usuario.xml" value="0.4" />
+        <entry key="..\:/Documentos/ContatosEmergencia_4/app/src/main/res/layout/activity_perfil_usuario.xml" value="0.264" />
+        <entry key="..\:/Documentos/ContatosEmergencia_4/app/src/main/res/layout/activity_tela_login.xml" value="0.4" />
+        <entry key="..\:/Documentos/ContatosEmergencia_4/app/src/main/res/layout/list_view_layout.xml" value="0.259375" />
+        <entry key="..\:/Documentos/ContatosEmergencia_4/app/src/main/res/layout/list_view_layout_imagem.xml" value="0.5239463601532567" />
+        <entry key="..\:/Documentos/ContatosEmergencia_4/app/src/main/res/menu/activity_main_bottom_actions.xml" value="0.259375" />
+        <entry key="..\:/Documentos/ContatosEmergencia_4/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2755208333333333" />
+        <entry key="..\:/Documentos/ContatosEmergencia_5/app/src/main/res/layout/activity_alterar_contatos.xml" value="0.259375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
